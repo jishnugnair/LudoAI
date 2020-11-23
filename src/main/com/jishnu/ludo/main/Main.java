@@ -1,10 +1,10 @@
-package com.jishnu.ludo.main;
+package main.com.jishnu.ludo.main;
 
 import java.io.IOException;
 
-import com.jishnu.ludo.ui.Board;
-import com.jishnu.ludo.ui.Frame;
-import com.jishnu.ludo.ui.UserInputHandler;
+import main.com.jishnu.ludo.ui.Board;
+import main.com.jishnu.ludo.ui.Frame;
+import main.com.jishnu.ludo.ui.UserInputHandler;
 
 public class Main {
 

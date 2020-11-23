@@ -1,4 +1,4 @@
-package com.jishnu.ludo.rules;
+package main.com.jishnu.ludo.rules;
 
 public class Dice {
 	private static boolean isDiceRolled = false;

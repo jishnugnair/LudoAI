@@ -1,4 +1,4 @@
-package com.jishnu.ludo.ui;
+package main.com.jishnu.ludo.ui;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -9,13 +9,13 @@ import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 
-import com.jishnu.ludo.coins.Blue;
-import com.jishnu.ludo.coins.Coins;
-import com.jishnu.ludo.coins.Green;
-import com.jishnu.ludo.coins.Red;
-import com.jishnu.ludo.coins.Yellow;
-import com.jishnu.ludo.rules.Dice;
-import com.jishnu.ludo.rules.Turn;
+import main.com.jishnu.ludo.coins.Blue;
+import main.com.jishnu.ludo.coins.Coins;
+import main.com.jishnu.ludo.coins.Green;
+import main.com.jishnu.ludo.coins.Red;
+import main.com.jishnu.ludo.coins.Yellow;
+import main.com.jishnu.ludo.rules.Dice;
+import main.com.jishnu.ludo.rules.Turn;
 
 public class Board {
 

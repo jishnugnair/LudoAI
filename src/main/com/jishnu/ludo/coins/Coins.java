@@ -1,4 +1,4 @@
-package com.jishnu.ludo.coins;
+package main.com.jishnu.ludo.coins;
 
 import java.awt.Color;
 

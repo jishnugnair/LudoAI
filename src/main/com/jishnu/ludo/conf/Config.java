@@ -1,4 +1,4 @@
-package com.jishnu.ludo.conf;
+package main.com.jishnu.ludo.conf;
 
 public class Config {
 

@@ -1,10 +1,10 @@
-package com.jishnu.ludo.rules;
+package main.com.jishnu.ludo.rules;
 
-import com.jishnu.ludo.coins.Blue;
-import com.jishnu.ludo.coins.Coins;
-import com.jishnu.ludo.coins.Green;
-import com.jishnu.ludo.coins.Red;
-import com.jishnu.ludo.coins.Yellow;
+import main.com.jishnu.ludo.coins.Blue;
+import main.com.jishnu.ludo.coins.Coins;
+import main.com.jishnu.ludo.coins.Green;
+import main.com.jishnu.ludo.coins.Red;
+import main.com.jishnu.ludo.coins.Yellow;
 
 public class Turn {
 	private static short turn = (short) (Math.random() * 3);

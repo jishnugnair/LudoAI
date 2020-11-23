@@ -1,18 +1,18 @@
-package com.jishnu.ludo.coins;
+package main.com.jishnu.ludo.coins;
 
 import java.awt.Color;
 
-public class Green extends Coins {
+public class Yellow extends Coins {
 
-	private static short[] position = { -1, -1, -1, -1 };
-	private static Green myObj;
+	private static short[] position = { 12, -1, -1, -1 };
+	private static Yellow myObj;
 
-	private Green() {
+	private Yellow() {
 	}
 
-	public static Green newInstance() {
+	public static Yellow newInstance() {
 		if (myObj == null) {
-			myObj = new Green();
+			myObj = new Yellow();
 		}
 		return myObj;
 	}
@@ -37,10 +37,10 @@ public class Green extends Coins {
 	}
 
 	public String getName() {
-		return "green";
+		return "yellow";
 	}
 
 	public Color getColor() {
-		return Color.GREEN;
+		return Color.YELLOW;
 	}
 }

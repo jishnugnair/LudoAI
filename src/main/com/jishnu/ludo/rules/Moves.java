@@ -1,6 +1,6 @@
-package com.jishnu.ludo.rules;
+package main.com.jishnu.ludo.rules;
 
-import com.jishnu.ludo.coins.Coins;
+import main.com.jishnu.ludo.coins.Coins;
 
 public class Moves {
 

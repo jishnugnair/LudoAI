@@ -1,4 +1,4 @@
-package com.jishnu.ludo.ui;
+package main.com.jishnu.ludo.ui;
 
 import java.awt.Rectangle;
 import java.util.HashMap;

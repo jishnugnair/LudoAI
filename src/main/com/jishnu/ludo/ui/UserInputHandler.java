@@ -1,14 +1,14 @@
-package com.jishnu.ludo.ui;
+package main.com.jishnu.ludo.ui;
 
 import java.awt.Rectangle;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.util.Map;
 
-import com.jishnu.ludo.coins.Coins;
-import com.jishnu.ludo.rules.Dice;
-import com.jishnu.ludo.rules.Moves;
-import com.jishnu.ludo.rules.Turn;
+import main.com.jishnu.ludo.coins.Coins;
+import main.com.jishnu.ludo.rules.Dice;
+import main.com.jishnu.ludo.rules.Moves;
+import main.com.jishnu.ludo.rules.Turn;
 
 public class UserInputHandler implements MouseListener {
 
